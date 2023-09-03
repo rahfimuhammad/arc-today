@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/arc-today/static/css/main.174b323c.css",
+    "main.js": "/arc-today/static/js/main.4fffe6bb.js",
+    "static/js/787.124a11a1.chunk.js": "/arc-today/static/js/787.124a11a1.chunk.js",
+    "static/media/litografiBatavia.png": "/arc-today/static/media/litografiBatavia.36dc8d2ea7f54d0f231a.png",
+    "static/media/prehistoricOfIndonesia.png": "/arc-today/static/media/prehistoricOfIndonesia.31991b7e792fee420d0a.png",
+    "static/media/borobudurInNumbers.png": "/arc-today/static/media/borobudurInNumbers.35eede02c06a0a356359.png",
+    "static/media/Jungle0.png": "/arc-today/static/media/Jungle0.9c89ae8db3990d95593f.png",
+    "static/media/Jungle3.png": "/arc-today/static/media/Jungle3.7c072be962107ec30e15.png",
+    "static/media/Jungle5.png": "/arc-today/static/media/Jungle5.6d4a5e6ef5ad3f3b1e94.png",
+    "static/media/Jungle4.png": "/arc-today/static/media/Jungle4.e0b34bb5d92780cc5fc5.png",
+    "static/media/Jungle2.png": "/arc-today/static/media/Jungle2.500b9be988b9c5c82356.png",
+    "static/media/backgroundBorobudur.png": "/arc-today/static/media/backgroundBorobudur.55399235f56624cc9306.png",
+    "static/media/Mountain.png": "/arc-today/static/media/Mountain.ced7b2f42f1adf3e2e4d.png",
+    "static/media/PrehistoricMan.png": "/arc-today/static/media/PrehistoricMan.4caae16fe2b5f692193c.png",
+    "static/media/Jungle1.png": "/arc-today/static/media/Jungle1.c5d19eb81d8461c782f2.png",
+    "static/media/Logoland.png": "/arc-today/static/media/Logoland.1fb966df0fca4db2c27f.png",
+    "static/media/Background.png": "/arc-today/static/media/Background.d57217a67d513c837044.png",
+    "static/media/instagram.png": "/arc-today/static/media/instagram.f10bd438321d71db817a.png",
+    "index.html": "/arc-today/index.html",
+    "main.174b323c.css.map": "/arc-today/static/css/main.174b323c.css.map",
+    "main.4fffe6bb.js.map": "/arc-today/static/js/main.4fffe6bb.js.map",
+    "787.124a11a1.chunk.js.map": "/arc-today/static/js/787.124a11a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174b323c.css",
+    "static/js/main.4fffe6bb.js"
+  ]
+}
