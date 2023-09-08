@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/arc-today/static/css/main.d00117e7.css",
+    "main.css": "/arc-today/static/css/main.4bcf99db.css",
     "main.js": "/arc-today/static/js/main.23103f71.js",
     "static/js/787.7e082248.chunk.js": "/arc-today/static/js/787.7e082248.chunk.js",
     "static/media/litografiBatavia.png": "/arc-today/static/media/litografiBatavia.36dc8d2ea7f54d0f231a.png",
@@ -19,12 +19,12 @@
     "static/media/Background.png": "/arc-today/static/media/Background.d57217a67d513c837044.png",
     "static/media/instagram.png": "/arc-today/static/media/instagram.f10bd438321d71db817a.png",
     "index.html": "/arc-today/index.html",
-    "main.d00117e7.css.map": "/arc-today/static/css/main.d00117e7.css.map",
+    "main.4bcf99db.css.map": "/arc-today/static/css/main.4bcf99db.css.map",
     "main.23103f71.js.map": "/arc-today/static/js/main.23103f71.js.map",
     "787.7e082248.chunk.js.map": "/arc-today/static/js/787.7e082248.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d00117e7.css",
+    "static/css/main.4bcf99db.css",
     "static/js/main.23103f71.js"
   ]
 }
