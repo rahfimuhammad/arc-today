@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/arc-today/static/css/main.758157bf.css",
-    "main.js": "/arc-today/static/js/main.3a70e931.js",
+    "main.css": "/arc-today/static/css/main.b537ced3.css",
+    "main.js": "/arc-today/static/js/main.0b527eb0.js",
     "static/js/787.7e082248.chunk.js": "/arc-today/static/js/787.7e082248.chunk.js",
     "static/media/prehistoricOfIndonesia.png": "/arc-today/static/media/prehistoricOfIndonesia.eb51dc39d6c2b8ae4dab.png",
     "static/media/test.png": "/arc-today/static/media/test.a94ac31e8b1c12f3f27d.png",
-    "static/media/litografiBatavia.png": "/arc-today/static/media/litografiBatavia.e2a33a394d162d91dae1.png",
     "static/media/CoverArca.png": "/arc-today/static/media/CoverArca.c62af6af1bfac4d84657.png",
     "static/media/CoverStupa.png": "/arc-today/static/media/CoverStupa.38270f7189d4fdb75e1f.png",
     "static/media/Jungle4.png": "/arc-today/static/media/Jungle4.355eed5b3c5e5a93632a.png",
     "static/media/Jungle5.png": "/arc-today/static/media/Jungle5.70e6e2f236c1e586f639.png",
     "static/media/Jungle3.png": "/arc-today/static/media/Jungle3.c6a7d0cb2682f8bd0a73.png",
+    "static/media/litografiBatavia.png": "/arc-today/static/media/litografiBatavia.401e9d7d7f46fff15acf.png",
     "static/media/Jungle2.png": "/arc-today/static/media/Jungle2.22c57ffc7cb707b9d401.png",
-    "static/media/Background.png": "/arc-today/static/media/Background.db4ab032828407df6ab8.png",
     "static/media/PrehistoricMan.png": "/arc-today/static/media/PrehistoricMan.d88d5beb366eb5752788.png",
     "static/media/Mountain.png": "/arc-today/static/media/Mountain.7d4a525155821388a08d.png",
     "static/media/Jungle1.png": "/arc-today/static/media/Jungle1.7bf7fe55ebc5f5eec6b4.png",
+    "static/media/Background.png": "/arc-today/static/media/Background.b14289c4a1638b6ef256.png",
     "static/media/Logoland.png": "/arc-today/static/media/Logoland.9ca0b1d0d7dd28ad7fa5.png",
     "static/media/Jungle0.png": "/arc-today/static/media/Jungle0.f6007d23637d597825f1.png",
     "static/media/instagram.png": "/arc-today/static/media/instagram.f10bd438321d71db817a.png",
     "index.html": "/arc-today/index.html",
-    "main.758157bf.css.map": "/arc-today/static/css/main.758157bf.css.map",
-    "main.3a70e931.js.map": "/arc-today/static/js/main.3a70e931.js.map",
+    "main.b537ced3.css.map": "/arc-today/static/css/main.b537ced3.css.map",
+    "main.0b527eb0.js.map": "/arc-today/static/js/main.0b527eb0.js.map",
     "787.7e082248.chunk.js.map": "/arc-today/static/js/787.7e082248.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.758157bf.css",
-    "static/js/main.3a70e931.js"
+    "static/css/main.b537ced3.css",
+    "static/js/main.0b527eb0.js"
   ]
 }
