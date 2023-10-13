@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arc-today/static/css/main.3c85d374.css",
-    "main.js": "/arc-today/static/js/main.fe53d825.js",
+    "main.css": "/arc-today/static/css/main.5e1e9b1f.css",
+    "main.js": "/arc-today/static/js/main.f63a33a3.js",
     "static/js/787.7e082248.chunk.js": "/arc-today/static/js/787.7e082248.chunk.js",
     "static/media/prehistoricOfIndonesia.png": "/arc-today/static/media/prehistoricOfIndonesia.eb51dc39d6c2b8ae4dab.png",
     "static/media/test.png": "/arc-today/static/media/test.a94ac31e8b1c12f3f27d.png",
@@ -20,12 +20,12 @@
     "static/media/Jungle0.png": "/arc-today/static/media/Jungle0.f6007d23637d597825f1.png",
     "static/media/instagram.png": "/arc-today/static/media/instagram.f10bd438321d71db817a.png",
     "index.html": "/arc-today/index.html",
-    "main.3c85d374.css.map": "/arc-today/static/css/main.3c85d374.css.map",
-    "main.fe53d825.js.map": "/arc-today/static/js/main.fe53d825.js.map",
+    "main.5e1e9b1f.css.map": "/arc-today/static/css/main.5e1e9b1f.css.map",
+    "main.f63a33a3.js.map": "/arc-today/static/js/main.f63a33a3.js.map",
     "787.7e082248.chunk.js.map": "/arc-today/static/js/787.7e082248.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c85d374.css",
-    "static/js/main.fe53d825.js"
+    "static/css/main.5e1e9b1f.css",
+    "static/js/main.f63a33a3.js"
   ]
 }
