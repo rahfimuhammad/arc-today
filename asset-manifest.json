@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arc-today/static/css/main.b5df742a.css",
-    "main.js": "/arc-today/static/js/main.10127c4f.js",
+    "main.js": "/arc-today/static/js/main.342c2d57.js",
     "static/css/614.d036cc87.chunk.css": "/arc-today/static/css/614.d036cc87.chunk.css",
     "static/js/614.98ef7067.chunk.js": "/arc-today/static/js/614.98ef7067.chunk.js",
     "static/css/786.0fed38e4.chunk.css": "/arc-today/static/css/786.0fed38e4.chunk.css",
@@ -9,7 +9,7 @@
     "static/js/318.ea92d44b.chunk.js": "/arc-today/static/js/318.ea92d44b.chunk.js",
     "static/js/529.9991a28f.chunk.js": "/arc-today/static/js/529.9991a28f.chunk.js",
     "static/css/104.d1e05b4d.chunk.css": "/arc-today/static/css/104.d1e05b4d.chunk.css",
-    "static/js/104.b2b28528.chunk.js": "/arc-today/static/js/104.b2b28528.chunk.js",
+    "static/js/104.afe10919.chunk.js": "/arc-today/static/js/104.afe10919.chunk.js",
     "static/js/787.7e082248.chunk.js": "/arc-today/static/js/787.7e082248.chunk.js",
     "static/js/384.6b0ed17f.chunk.js": "/arc-today/static/js/384.6b0ed17f.chunk.js",
     "static/js/111.2534cf13.chunk.js": "/arc-today/static/js/111.2534cf13.chunk.js",
@@ -30,7 +30,7 @@
     "index.html": "/arc-today/index.html",
     "static/media/trb-Grid.svg": "/arc-today/static/media/trb-Grid.44573756f759d27e31918bdd9c1ce2b6.svg",
     "main.b5df742a.css.map": "/arc-today/static/css/main.b5df742a.css.map",
-    "main.10127c4f.js.map": "/arc-today/static/js/main.10127c4f.js.map",
+    "main.342c2d57.js.map": "/arc-today/static/js/main.342c2d57.js.map",
     "614.d036cc87.chunk.css.map": "/arc-today/static/css/614.d036cc87.chunk.css.map",
     "614.98ef7067.chunk.js.map": "/arc-today/static/js/614.98ef7067.chunk.js.map",
     "786.0fed38e4.chunk.css.map": "/arc-today/static/css/786.0fed38e4.chunk.css.map",
@@ -38,7 +38,7 @@
     "318.ea92d44b.chunk.js.map": "/arc-today/static/js/318.ea92d44b.chunk.js.map",
     "529.9991a28f.chunk.js.map": "/arc-today/static/js/529.9991a28f.chunk.js.map",
     "104.d1e05b4d.chunk.css.map": "/arc-today/static/css/104.d1e05b4d.chunk.css.map",
-    "104.b2b28528.chunk.js.map": "/arc-today/static/js/104.b2b28528.chunk.js.map",
+    "104.afe10919.chunk.js.map": "/arc-today/static/js/104.afe10919.chunk.js.map",
     "787.7e082248.chunk.js.map": "/arc-today/static/js/787.7e082248.chunk.js.map",
     "384.6b0ed17f.chunk.js.map": "/arc-today/static/js/384.6b0ed17f.chunk.js.map",
     "111.2534cf13.chunk.js.map": "/arc-today/static/js/111.2534cf13.chunk.js.map",
@@ -46,6 +46,6 @@
   },
   "entrypoints": [
     "static/css/main.b5df742a.css",
-    "static/js/main.10127c4f.js"
+    "static/js/main.342c2d57.js"
   ]
 }
