@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arc-today/static/css/main.fae7aeef.css",
-    "main.js": "/arc-today/static/js/main.678d5a27.js",
+    "main.js": "/arc-today/static/js/main.c2e45379.js",
     "static/css/614.02a7033a.chunk.css": "/arc-today/static/css/614.02a7033a.chunk.css",
     "static/js/614.55c212fc.chunk.js": "/arc-today/static/js/614.55c212fc.chunk.js",
     "static/css/786.0fed38e4.chunk.css": "/arc-today/static/css/786.0fed38e4.chunk.css",
@@ -36,7 +36,7 @@
     "index.html": "/arc-today/index.html",
     "static/media/trb-Grid.svg": "/arc-today/static/media/trb-Grid.44573756f759d27e31918bdd9c1ce2b6.svg",
     "main.fae7aeef.css.map": "/arc-today/static/css/main.fae7aeef.css.map",
-    "main.678d5a27.js.map": "/arc-today/static/js/main.678d5a27.js.map",
+    "main.c2e45379.js.map": "/arc-today/static/js/main.c2e45379.js.map",
     "614.02a7033a.chunk.css.map": "/arc-today/static/css/614.02a7033a.chunk.css.map",
     "614.55c212fc.chunk.js.map": "/arc-today/static/js/614.55c212fc.chunk.js.map",
     "786.0fed38e4.chunk.css.map": "/arc-today/static/css/786.0fed38e4.chunk.css.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.fae7aeef.css",
-    "static/js/main.678d5a27.js"
+    "static/js/main.c2e45379.js"
   ]
 }
